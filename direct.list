@@ -1,6 +1,5 @@
- 直连补充列表
-
-# 域名后缀匹配
+# 直连补充列表
 DOMAIN-SUFFIX,clashroyaleapp.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,imap.gmail.com
+DOMAIN-SUFFIX,smtp.gmail.com
