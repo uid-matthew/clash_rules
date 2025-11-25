@@ -5,3 +5,11 @@ DOMAIN-SUFFIX,imap.gmail.com
 DOMAIN-SUFFIX,smtp.gmail.com
 DOMAIN-SUFFIX,netbird.io
 DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,music.163.com
+DOMAIN-SUFFIX,interface.music.163.com
+DOMAIN-SUFFIX,interface3.music.163.com
+DOMAIN-SUFFIX,apm.music.163.com
+DOMAIN-SUFFIX,apm3.music.163.com
+DOMAIN-SUFFIX,clientlog.music.163.com
+DOMAIN-SUFFIX,clientlog3.music.163.com
+DOMAIN-SUFFIX,music.httpdns.c.163.com
