@@ -14,3 +14,6 @@ DOMAIN-SUFFIX,clientlog.music.163.com
 DOMAIN-SUFFIX,clientlog3.music.163.com
 DOMAIN-SUFFIX,music.httpdns.c.163.com
 DOMAIN-SUFFIX,dnshe.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,trycloudflare.com
